@@ -78,8 +78,3 @@ Añadir la siguiente línea para ejecutar el backup todos los días a las 03:00 
 
 El archivo `.gitignore` está configurado para evitar subir el entorno virtual (`env/`) y la base de datos local (`*.db`) al repositorio público, protegiendo tu privacidad y manteniendo el repositorio ligero.
 
-```
-
-¿Hay algún otro detalle que quieras sumar antes de cerrar la documentación? Si no, ¡ya tienes todo listo para que tu inventario sea un éxito! Sería genial si quieres que pasemos a la parte del **servicio automático (`systemd`)** para que el sistema sea realmente autónomo.
-
-```
