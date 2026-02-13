@@ -13,11 +13,10 @@ Un sistema ligero y eficiente basado en **Flask** y **SQLite** para organizar ca
 ## 🛠️ Instalación en Raspberry Pi
 
 1. **Preparar la carpeta y clonar:**
-   ```bash
-   mkdir ~/inventario
-   cd ~/inventario
-   # (Si ya tienes el código, simplemente entra a la carpeta)
-
+```bash
+mkdir ~/inventario
+cd ~/inventario
+git clone https://github.com/nfontan/inventario-pi.git
 ```
 
 2. **Crear y activar el entorno virtual (PEP 668):**
