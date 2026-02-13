@@ -8,6 +8,7 @@ Un sistema ligero y eficiente basado en **Flask** y **SQLite** para organizar ca
 - **Filtro por Cajas:** Al hacer clic en el nombre de una caja, el sistema muestra instantáneamente todo su contenido.
 - **Diseño Responsive:** Optimizado para usar con el celular mientras ordenas tus cajas físicamente.
 - **Backups Automáticos:** Configuración preparada para respaldar la base de datos diariamente.
+<img width="1442" height="589" alt="image" src="https://github.com/user-attachments/assets/c0e4b8ab-d9ca-43fc-bf2f-2138edb087ec" />
 
 ## 🛠️ Instalación en Raspberry Pi
 
